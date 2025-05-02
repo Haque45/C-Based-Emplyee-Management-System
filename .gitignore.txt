@@ -1,0 +1,17 @@
+# Compiled Object files
+*.o
+
+# Compiled Binary files
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.log
+*.tmp
+
+# Mac system files
+.DS_Store
+
+# Code backup files
+*~
